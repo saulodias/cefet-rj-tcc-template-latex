@@ -1,0 +1,115 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\astroncite{dat}{2016}]{datario}
+ (2016).
+\newblock {Portal de dados abertos da prefeitura do Rio de Janeiro}.
+\newblock \url{http://data.rio/}.
+
+\bibitem[\protect\astroncite{tom}{2016}]{tomtom2016traffic}
+ (2016).
+\newblock {Tomtom Traffic Index}.
+\newblock \url{http://www.tomtom.com/pt_br/trafficindex/}.
+
+\bibitem[\protect\astroncite{Adrienko and Adrienko}{2011}]{adrienko2011spatial}
+Adrienko, N. and Adrienko, G. (2011).
+\newblock Spatial generalization and aggregation of massive movement data.
+\newblock {\em IEEE Transactions on visualization and computer graphics},
+  17(2):205--219.
+
+\bibitem[\protect\astroncite{Andrienko and
+  Andrienko}{2008}]{andrienko2008spatio}
+Andrienko, G. and Andrienko, N. (2008).
+\newblock Spatio-temporal aggregation for visual analysis of movements.
+\newblock In {\em Visual Analytics Science and Technology, 2008. VAST'08. IEEE
+  Symposium on}, pages 51--58. IEEE.
+
+\bibitem[\protect\astroncite{Borah and Bhattacharyya}{2004}]{borah2004improved}
+Borah, B. and Bhattacharyya, D. (2004).
+\newblock An improved sampling-based dbscan for large spatial databases.
+\newblock In {\em Intelligent Sensing and Information Processing, 2004.
+  Proceedings of International Conference on}, pages 92--96. IEEE.
+
+\bibitem[\protect\astroncite{Cassisi et~al.}{2013}]{cassisi2013motif}
+Cassisi, C., Aliotta, M., Cannata, A., Montalto, P., Patan{\`e}, D.,
+  Pulvirenti, A., and Spampinato, L. (2013).
+\newblock Motif discovery on seismic amplitude time series: The case study of
+  mt etna 2011 eruptive activity.
+\newblock {\em Pure and Applied Geophysics}, 170(4):529--545.
+
+\bibitem[\protect\astroncite{Chen et~al.}{2015}]{chen2015survey}
+Chen, W., Guo, F., and Wang, F.-Y. (2015).
+\newblock A survey of traffic data visualization.
+\newblock {\em Intelligent Transportation Systems, IEEE Transactions on},
+  16(6):2970--2984.
+
+\bibitem[\protect\astroncite{Chi et~al.}{2012}]{chi2012face}
+Chi, L., Feng, Y., Chi, H., and Huang, Y. (2012).
+\newblock Face image recognition based on time series motif discovery.
+\newblock In {\em Granular Computing (GrC), 2012 IEEE International Conference
+  on}, pages 72--77. IEEE.
+
+\bibitem[\protect\astroncite{Cressie and Wikle}{2015}]{cressie2015statistics}
+Cressie, N. and Wikle, C.~K. (2015).
+\newblock {\em Statistics for spatio-temporal data}.
+\newblock John Wiley \& Sons.
+
+\bibitem[\protect\astroncite{Esling and Agon}{2012}]{esling2012time}
+Esling, P. and Agon, C. (2012).
+\newblock Time-series data mining.
+\newblock {\em ACM Computing Surveys (CSUR)}, 45(1):12.
+
+\bibitem[\protect\astroncite{Ferreira et~al.}{2013}]{ferreira2013visual}
+Ferreira, N., Poco, J., Vo, H.~T., Freire, J., and Silva, C.~T. (2013).
+\newblock Visual exploration of big spatio-temporal urban data: A study of new
+  york city taxi trips.
+\newblock {\em Visualization and Computer Graphics, IEEE Transactions on},
+  19(12):2149--2158.
+
+\bibitem[\protect\astroncite{Frank}{2003}]{Frank:2003}
+Frank, A.~U. (2003).
+\newblock Ontology for spatio-temporal databases.
+\newblock In {\em Spatio-Temporal Databases}, pages 9--77. Springer.
+
+\bibitem[\protect\astroncite{Jiang et~al.}{2008}]{jiang2008finding}
+Jiang, T., Feng, Y., Zhang, B., Shi, J., and Wang, Y. (2008).
+\newblock Finding motifs of financial data streams in real time.
+\newblock In {\em International Symposium on Intelligence Computation and
+  Applications}, pages 546--555. Springer.
+
+\bibitem[\protect\astroncite{Li and Nallela}{2009}]{li2009probabilistic}
+Li, L. and Nallela, S. (2009).
+\newblock Probabilistic discovery of motifs in water level.
+\newblock In {\em Information Reuse \& Integration, 2009. IRI'09. IEEE
+  International Conference on}, pages 388--393. IEEE.
+
+\bibitem[\protect\astroncite{Schneider et~al.}{2013}]{schneider2013unravelling}
+Schneider, C.~M., Belik, V., Couronn{\'e}, T., Smoreda, Z., and Gonz{\'a}lez,
+  M.~C. (2013).
+\newblock Unravelling daily human mobility motifs.
+\newblock {\em Journal of The Royal Society Interface}, 10(84):20130246.
+
+\bibitem[\protect\astroncite{Spaccapietra et~al.}{2008}]{Spaccapietra:2008}
+Spaccapietra, S., Parent, C., Damiani, M.~L., de~Macedo, J.~A., Porto, F., and
+  Vangenot, C. (2008).
+\newblock A conceptual view on trajectories.
+\newblock {\em Data Knowl. Eng.}, 65(1):126--146.
+
+\bibitem[\protect\astroncite{Tao et~al.}{2004}]{tao2004spatio}
+Tao, Y., Kollios, G., Considine, J., Li, F., and Papadias, D. (2004).
+\newblock Spatio-temporal aggregation using sketches.
+\newblock In {\em Data Engineering, 2004. Proceedings. 20th International
+  Conference on}, pages 214--225. IEEE.
+
+\bibitem[\protect\astroncite{Vahdatpour et~al.}{2009}]{vahdatpour2009toward}
+Vahdatpour, A., Amini, N., and Sarrafzadeh, M. (2009).
+\newblock Toward unsupervised activity discovery using multi-dimensional motif
+  detection in time series.
+\newblock In {\em IJCAI}, volume~9, pages 1261--1266.
+
+\bibitem[\protect\astroncite{Wang et~al.}{2016}]{wang2016effective}
+Wang, L., Wang, Z., and Liu, S. (2016).
+\newblock An effective multivariate time series classification approach using
+  echo state network and adaptive differential evolution algorithm.
+\newblock {\em Expert Systems with Applications}, 43:237--249.
+
+\end{thebibliography}
